@@ -162,7 +162,7 @@ add_dependencies(zedwallet version)
 
 # Finally build the binaries
 set_property(TARGET TurtleCoind PROPERTY OUTPUT_NAME "curiositycoin")
-set_property(TARGET zedwallet PROPERTY OUTPUT_NAME "curicwallet")
+set_property(TARGET zedwallet PROPERTY OUTPUT_NAME "curiwallet")
 set_property(TARGET zedwallet++ PROPERTY OUTPUT_NAME "curiwallet-beta")
 set_property(TARGET service PROPERTY OUTPUT_NAME "curiosity-service")
 set_property(TARGET miner PROPERTY OUTPUT_NAME "miner")
