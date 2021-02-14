@@ -21,7 +21,7 @@ namespace CryptoNote
       << std::endl << std::endl
       << " Additional Copyright(s) may apply, please see the included LICENSE file for more information." << std::endl
       << " If you did not receive a copy of the LICENSE, please visit:" << std::endl
-      << " " << CryptoNote::LICENSE_URL
+      << "https://github.com/Curiosity-Developmement/CuriosityCoin/blob/master/LICENSE" << CryptoNote::LICENSE_URL
       << std::endl << std::endl;
 
     return programHeader.str();
