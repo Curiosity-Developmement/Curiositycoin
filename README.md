@@ -147,7 +147,7 @@ The binaries will be in the `src` folder when you are complete.
 
 ##### Building
 
-- From the start menu, open 'x64 Native Tools Command Prompt for vs2017'.
+- From the start menu, open 'x64 Native Tools Command Prompt for vs2019'.
 - `cd <your_Curiositycoin_directory>`
 - `mkdir build`
 - `cd build`
